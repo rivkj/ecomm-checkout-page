@@ -14,7 +14,7 @@
 This project is a sample implementation of a checkout page, demonstrating the key features and functionality typically found in an e-commerce site's checkout process. The main objective is to provide a reference on how to build a robust and user-friendly checkout experience. The site featured is listed as Sakura - a cosmetic and beauty retailer with a soft and warm color palette meant to be represented by it's namesake of Cherry Blossom in the traditional Japanese form.
 
 ![Sakura Logo](<./assets/Sakura - Logo.png>)
-![Sakura logo 2] (./assets/S.png)
+![Sakura logo 2] (<./assets/S.png>)
 ![Site image header](assets/s-img-1.png)
 ![Site image of body](assets/s-img-2.png)
 ![Site image of footer](assets/s-img-footer.png)
